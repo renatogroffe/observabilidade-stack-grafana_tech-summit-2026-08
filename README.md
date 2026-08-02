@@ -7,3 +7,7 @@ Exemplos utilizados:
 - [**APISIX + OpenBao (HashiCorp Vault) + Grafana + Prometheus**](https://github.com/renatogroffe/apisix-ai-gateway-microsoftfoundry-vault-otel-grafana-prometheus-dockercompose)
 
 Dashboards para Kubernetes utilizando métricas do Prometheus: **https://github.com/dotdc/grafana-dashboards-kubernetes**
+
+---
+
+Público: 39 pessoas
