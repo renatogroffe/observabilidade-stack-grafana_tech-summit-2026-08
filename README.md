@@ -11,3 +11,5 @@ Dashboards para Kubernetes utilizando métricas do Prometheus: **https://github.
 ---
 
 Público: 39 pessoas
+
+https://recrutatech.com.br/ingresso/techsummit0826
