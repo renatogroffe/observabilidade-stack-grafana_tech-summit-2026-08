@@ -20,16 +20,11 @@ Data: **01/08/2026 (sábado)**
 
 Tecnologias e tópicos abordados: **Grafana, OpenTelemetry, Tempo, Loki, Prometheus, Containers, Docker, Docker Compose, Microsoft Azure, Azure Managed Grafana, .NET 10, ASP.NET Core, Oracle, Java, Springboot, Apache Camel, APISIX, OpenBao (HashiCorp Vault), Kubernetes, REST APIs, AI Gateways...**
 
-
-
- Oracle - Chácara Santo Antônio • Rua Dr. Áureo Bustamante, 455 - Zona Sul – São Paulo, SP 
-
-
 Número de participantes: **39 pessoas**
 
 Link do evento (inscrições): [**RecrutaTech**](https://recrutatech.com.br/ingresso/techsummit0826)
 
-Local: **Centro Universitário Eniac - Rua Força Pública, 89 - Centro - Guarulhos - CEP: 07012-030**
+Local: **Oracle - Rua Dr. Áureo Bustamante, 455 - Chácara Santo Antônio - São Paulo - CEP: 04710-090**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 
