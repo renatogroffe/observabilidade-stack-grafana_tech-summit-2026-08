@@ -48,8 +48,4 @@ Esta palestra foi realizada em conjunto com meu amigo **Milton Camara (Microsoft
 
 ![Renato e Milton palestrando 8](img/renato-milton-16.jpg)
 
-
-
-
-
 ![Site](img/site-01.png)
