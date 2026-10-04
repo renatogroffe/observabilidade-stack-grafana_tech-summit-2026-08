@@ -44,15 +44,12 @@ Esta palestra foi realizada em conjunto com meu amigo **Milton Camara (Microsoft
 
 ![Renato e Milton palestrando 6](img/renato-milton-37.jpeg)
 
-xxxxxxxxxxxxxx
+![Renato e Milton palestrando 7](img/renato-milton-04.jpeg)
+
+![Renato e Milton palestrando 8](img/renato-milton-16.jpg)
 
 
-![Renato e Milton palestrando 7](img/sqlsat-092.jpeg)
 
-![Renato e Milton palestrando 8](img/sqlsat-107.jpg)
 
-![Programação](img/site-02.png)
-
-![Descritivo Palestra](img/site-03.png)
 
 ![Site](img/site-01.png)
