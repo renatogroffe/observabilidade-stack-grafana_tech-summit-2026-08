@@ -18,7 +18,7 @@ Evento: **Tech Summit Agosto 2026**
 
 Data: **01/08/2026 (sábado)**
 
-Tecnologias e tópicos abordados: **Grafana, OpenTelemetry, Tempo, Loki, Prometheus, Containers, Docker, Docker Compose, Microsoft Azure, Azure Managed Grafana, .NET 10, ASP.NET Core, Oracle, Java, Springboot, Apache Camel, APISIX, OpenBao (HashiCorp Vault), Kubernetes, REST APIs, AI Gateways...**
+Tecnologias e tópicos abordados: **Grafana, OpenTelemetry, Tempo, Loki, Alloy, Prometheus, Containers, Docker, Docker Compose, Microsoft Azure, Azure Managed Grafana, .NET 10, ASP.NET Core, Oracle, Java, Springboot, Apache Camel, APISIX, OpenBao (HashiCorp Vault), Kubernetes, REST APIs, AI Gateways...**
 
 Número de participantes: **39 pessoas**
 
@@ -30,3 +30,28 @@ Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 
 Esta palestra foi realizada em conjunto com meu amigo **Milton Camara (Microsoft MVP)**.
 
+---
+
+![Renato e Milton palestrando 1](img/renato-milton-01.jpeg)
+
+![Renato e Milton palestrando 2](img/renato-milton-03.jpeg)
+
+![Renato e Milton palestrando 3](img/renato-milton-04.jpeg)
+
+xxxxxxxxxxxxxx
+
+![Renato e Milton palestrando 4](img/sqlsat-095.jpeg)
+
+![Renato e Milton palestrando 5](img/sqlsat-076.jpeg)
+
+![Renato e Milton palestrando 6](img/sqlsat-073.jpeg)
+
+![Renato e Milton palestrando 7](img/sqlsat-092.jpeg)
+
+![Renato e Milton palestrando 8](img/sqlsat-107.jpg)
+
+![Programação](img/site-02.png)
+
+![Descritivo Palestra](img/site-03.png)
+
+![Site](img/site-01.png)
