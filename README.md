@@ -1,5 +1,5 @@
 # observabilidade-stack-grafana_tech-summit-2026-08
-Conteúdos da apresentação "Observabilidade Unificada com a stack Gafana: de aplicações a serviços em nuvem, IA e Kubernetes!".
+Conteúdos da apresentação "Observabilidade Unificada com a stack Gafana: de aplicações a serviços em nuvem, IA e Kubernetes!". Palestra realizada no dia 01/08/2026, durante a edição de Agosto do Tech Summit em São Paulo-SP.
 
 Exemplos utilizados:
 - [**.NET 10 + ASP.NET Core + Oracle + Grafana + Tempo + Loki + Prometheus**](https://github.com/renatogroffe/aspnetcore10-opentelemetry-grafana-tempo-loki-prometheus-oracle-testcontainers_contagemacessos)
