@@ -30,6 +30,8 @@ Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 
 Esta palestra foi realizada em conjunto com meu amigo **Milton Camara (Microsoft MVP)**.
 
+Deixo aqui meus agradecimentos à **Cilene Danta** por todo o apoio para que participássemos como palestrantes desta edição do **Tech Summit**.
+
 ---
 
 ![Renato e Milton palestrando 1](img/renato-milton-01.jpeg)
